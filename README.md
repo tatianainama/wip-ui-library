@@ -51,7 +51,7 @@ An example of this workflow:
 I considered the following React project skeletons:
 
 - [Create React App](https://github.com/facebook/create-react-app): Perfect to create a React application, but not a __library__
-- [Create React Library](https://www.npmjs.com/package/create-react-library): Sounds like the perfect tool, took me a lot of time to make it work and in the end had inflexible config.
+- [Create React Library](https://www.npmjs.com/package/create-react-library): Sounds like the perfect tool, took me a lot of time to make it work and in the end had inflexible config. [Unknown future project status](https://github.com/transitive-bullshit/create-react-library/issues/171) :\
 - [Neutrino React Components](https://neutrinojs.org/packages/react-components/): Recommended by React. Was working perfectly but ended up blocked with configs (perfect for __one__ component but not a library).
 
 ## Custom component library
